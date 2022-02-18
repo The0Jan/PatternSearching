@@ -5,7 +5,7 @@ Implementation of pattern searching algorithms done for course 'Algorithms and D
 
 
 ## 1.Implementations performed:
-*Naive algorithm 
+*Naive algorithm
 *Boyer-Moore algorithm
 
 ## 2.Tests.
